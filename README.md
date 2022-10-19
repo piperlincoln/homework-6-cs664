@@ -15,5 +15,5 @@ python sentiment_analysis.py
 ```
 
 # Future Enhancements
-1. Handling Multiple Sentiments per Message
-2. Increasing Sophistication of Error Handling
+1. Handle Multiple Sentiments per Message
+2. Increase Sophistication of Error Handling
